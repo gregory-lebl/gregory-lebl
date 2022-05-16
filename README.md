@@ -9,10 +9,10 @@ L'ensemble des projets que j'ai décidé de rendre public et des projets réalis
 
 ## Quelles sont les technologies que je maitrise ? 
 - PHP / Symfony
-- mySQL
+- MySQL
 - Javasript
-- C#
 
 ## Quelles sont les technologies dans lesquelles j'ai quelques notions ?
 - Java
 - Docker
+- C#
